@@ -1,0 +1,28 @@
+name: Karlender
+favicon: null
+layout_spectrum: 0.4314945135265589
+typography_spectrum: 0.7870951560325921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.691093745874241
+  lightness: 0.4305713279172778
+  saturation: 0.7653489767108113
+  rhythmicContrast: 0.08801558474078774
+purpose: []
