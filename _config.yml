@@ -22,8 +22,7 @@ analytics:
 author:
   name: Karl Schönswetter
   email: radikarl@fea.st
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/94db6d40-a332-4966-b0b7-42692a1d2d6f.jpg
+logo: null
 name: Karlender
 cta:
   domain: null
