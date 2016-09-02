@@ -19,12 +19,18 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Karl Schönswetter
+  email: radikarl@fea.st
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c85c6650-39dc-4c75-81f7-e78fb517821e.png
 name: Karlender
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dedcb044-77fd-4e1d-9a7e-88d9bb008d41.jpg
 title: Karlender
 description: Jäger & Sammler
 purpose: []
